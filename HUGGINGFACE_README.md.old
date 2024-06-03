@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-## Gereksinimler
+## Requirements
 
 - Python 3.9
 - ffmpeg
